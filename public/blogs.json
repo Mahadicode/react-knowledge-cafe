@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/k4kV8Tb/2337097-1.jpg",
+    "title": "Fake Book 1",
+    "author_img": "https://i.ibb.co/CQTXnCb/lovely-woman.jpg",
+    "author": "John Smith",
+    "posted_date": "2024-03-19",
+    "reading_time": 2,
+    "hashtag": "#fiction #bestseller"
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/f1nn7W8/organized-office-desk-with-copy-space.jpg",
+    "title": "Fake Book 2",
+    "author_img": "https://i.ibb.co/NNT6jhq/pin-up-girl.jpg",
+    "author": "Jane Doe",
+    "posted_date": "2024-03-18",
+    "reading_time": 1.5,
+    "hashtag": "#mystery #thriller"
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/34gWNcd/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+    "title": "Fake Book 3",
+    "author_img": "https://i.ibb.co/fv6TL2d/medium-shot-woman-holding-phone.jpg",
+    "author": "David Johnson",
+    "posted_date": "2024-03-17",
+    "reading_time": 1,
+    "hashtag": "#romance #drama"
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/WDpDSNj/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+    "title": "Fake Book 4",
+    "author_img": "https://i.ibb.co/GtPhWtp/pretty-curly-young-woman-writing-notes-startup-project.jpg",
+    "author": "Emily Williams",
+    "posted_date": "2024-03-16",
+    "reading_time": 0.75,
+    "hashtag": "#fantasy #adventure"
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/WDpDSNj/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+    "title": "Fake Book 5",
+    "author_img": "https://i.ibb.co/mNRgYqf/close-up-portrait-young-readhed-smiling-student-studying-home-looking-aside.jpg",
+    "author": "Michael Brown",
+    "posted_date": "2024-03-15",
+    "reading_time": 0.5,
+    "hashtag": "#selfhelp #motivation"
+  }
+]
