@@ -3,7 +3,7 @@ import Bookmark from '../Bookmark/Bookmark';
 
 
 const Bookmarks = ({ bookmarks ,readingTime}) => {
-  console.log(bookmarks)
+  // console.log(bookmarks)
   
  
   return (
@@ -15,7 +15,7 @@ const Bookmarks = ({ bookmarks ,readingTime}) => {
       </div>
       <h1 className="text-3xl m-4">Bookmarks:{bookmarks.length}</h1>
       {
-        bookmarks.map(bookmark=><Bookmark key={bookmark.id} bookmark={bookmark}></Bookmark>)
+        bookmarks.map((bookmark,idx)=><Bookmark key={idx} bookmark={bookmark}></Bookmark>)
       }
   
     
